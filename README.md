@@ -4,7 +4,7 @@
 
 Este projeto implementa um servidor web utilizando o framework Ktor com integração ao Firebase Firestore. Ele oferece funcionalidades de autenticação (login e registro), páginas web dinâmicas e uma interface para busca de livros com base em título, autor ou gênero.
 
-## Funcionalidade
+## Funcionalidades
 
 - **Login e Registro**:
     - Página inicial de login.
